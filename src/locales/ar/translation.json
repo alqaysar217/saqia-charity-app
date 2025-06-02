@@ -1,0 +1,82 @@
+{
+  "app": {
+    "name": "سُقيا",
+    "slogan": "قطرة تساوي أجرًا"
+  },
+  "common": {
+    "next": "التالي",
+    "skip": "تخطي",
+    "back": "رجوع",
+    "submit": "إرسال",
+    "cancel": "إلغاء",
+    "confirm": "تأكيد",
+    "loading": "جاري التحميل..."
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "signup": "إنشاء حساب",
+    "guest": "الدخول كضيف",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "fullName": "الاسم الكامل",
+    "phone": "رقم الهاتف (اختياري)",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "noAccount": "ليس لديك حساب؟",
+    "hasAccount": "لديك حساب بالفعل؟",
+    "logout": "تسجيل الخروج"
+  },
+  "onboarding": {
+    "welcome": "مرحبًا بك في سُقيا",
+    "step1": {
+      "title": "رسالتنا",
+      "description": "تطبيق سُقيا يسهل عملية التبرع للمساجد في اليمن بتوفير احتياجاتهم من الماء والمناديل والمنظفات والوجبات"
+    },
+    "step2": {
+      "title": "أثر تبرعك",
+      "description": "تبرعك البسيط يساهم في إيصال المياه والاحتياجات الأساسية لمساجد اليمن"
+    },
+    "step3": {
+      "title": "انضم إلينا",
+      "description": "كن جزءًا من مبادرة سُقيا وساهم في دعم بيوت الله"
+    }
+  },
+  "home": {
+    "donationTypes": "أنواع التبرعات",
+    "water": "ماء",
+    "tissues": "مناديل",
+    "cleaningSupplies": "منظفات",
+    "meals": "وجبات",
+    "campaigns": "حملات التبرع",
+    "urgentNeeds": "احتياجات عاجلة"
+  },
+  "donation": {
+    "select": "اختر نوع التبرع",
+    "mosque": "اختر المسجد",
+    "quantity": "الكمية",
+    "total": "الإجمالي",
+    "transferCompany": "شركة الصرافة",
+    "transferDetails": "تفاصيل التحويل",
+    "receiptNumber": "رقم سند الإيداع",
+    "uploadReceipt": "رفع صورة السند",
+    "confirmDonation": "تأكيد التبرع",
+    "successMessage": "تم التبرع بنجاح، شكرًا لك"
+  },
+  "profile": {
+    "title": "الحساب الشخصي",
+    "settings": "الإعدادات",
+    "changeLanguage": "تغيير اللغة",
+    "theme": "المظهر",
+    "light": "فاتح",
+    "dark": "مظلم",
+    "deleteAccount": "حذف الحساب",
+    "myDonations": "تبرعاتي"
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "donations": "التبرعات",
+    "notifications": "الإشعارات",
+    "campaigns": "الحملات",
+    "profile": "الحساب"
+  }
+}
