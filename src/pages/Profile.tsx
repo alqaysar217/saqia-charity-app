@@ -32,7 +32,7 @@ const Profile: React.FC = () => {
   const user = {
     name: 'محمود الحساني',
     email: 'pr.mahmoud.20@gmail.com',
-    avatarUrl: 'public/images/mahmoud.png'
+    avatarUrl: '/images/mahmoud.png'
   };
   
   const handleLogout = () => {
