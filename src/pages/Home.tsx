@@ -92,13 +92,13 @@ const Home: React.FC = () => {
       title: 'حملة توفير مياه لمساجد صنعاء',
       description: 'هدفنا توفير 1000 كرتون مياه لمساجد صنعاء خلال شهر رمضان',
       progress: 65,
-      imageUrl: 'public/images/ms1.jpg'
+      imageUrl: '/images/ms1.jpg'
     },
     {
       title: 'تجهيز المساجد للعيد',
       description: 'توفير مستلزمات النظافة والمناديل لمساجد الشحر استعداداً للعيد',
       progress: 35,
-      imageUrl: 'public/images/ms2.jpg'
+      imageUrl: '/images/ms2.jpg'
     }
   ];
   
@@ -113,7 +113,7 @@ const Home: React.FC = () => {
       {/* Campaigns Carousel */}
       <div className="relative mb-8 overflow-hidden rounded-lg">
         <img 
-          src="public/images/ms3.jpg"
+          src="/images/ms3.jpg"
           alt="Donation Campaign"
           className="w-full h-48 object-cover"
         />
